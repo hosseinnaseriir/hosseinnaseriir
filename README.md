@@ -55,8 +55,6 @@ Docker • Git • AWS • CI/CD
 - **Wallex** – Cryptocurrency trading platform
 - **Zillmeter** – Commercial real estate web application
 
-*(Pin your best repositories below this section)*
-
 ---
 
 ### 🎯 Open To
@@ -72,9 +70,7 @@ Docker • Git • AWS • CI/CD
 </p>
 
 <!--
-**hosseinnaseriir/hosseinnaseriir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**hosseinnaseriir/hosseinnaseriir** 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
