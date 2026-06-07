@@ -1,0 +1,28 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from Medium & Dev.to
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Adds up to 6 most recent posts between the BLOG-POST-LIST markers in README.md
+          max_post_count: 6
+          feed_list: "https://medium.com/feed/@naseri.develop,https://dev.to/feed/ho3na3"
+          template: "- [$title]($url) <sub>($date)</sub>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: update README with latest blog posts"

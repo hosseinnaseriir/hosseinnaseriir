@@ -1,0 +1,38 @@
+# Hossein Naseri
+
+> Senior Frontend Engineer (7+ yrs). TypeScript, React, Next.js. Specializes in
+> monorepo architecture, design systems, and performance for enterprise platforms
+> (fintech, SaaS, e-commerce) — 6M+ users, 40% faster load times. Remote worldwide,
+> based in Shiraz, Iran (GMT+3:30).
+
+## Facts
+
+- Title: Senior Frontend Engineer
+- Experience: 7+ years
+- Core stack: TypeScript, React, Next.js, Tailwind, MUI, Turborepo/NX, Storybook
+- Backend: Node.js, NestJS, Express, GraphQL, PostgreSQL, MongoDB, Redis, Prisma
+- Testing: Jest, Vitest, Cypress, Playwright
+- Languages: English (B2), Persian (native)
+- Education: B.Sc. Engineering, Shiraz University (2016–2020)
+
+## Experience
+
+- Senior Frontend Engineer, Paradigm Digital (Client: American Standard Coatings), 2023–2026 — ERP/CRM for 100k+ customers, 170+ screens, JSON-to-UI engine, 40% faster dev cycles.
+- Senior Frontend Engineer, Wallex, 2022–2023 — fintech (6M+ users), monorepo UI kit, crypto trading MVP + back-office.
+- Frontend Engineer, SinanSoft (U.S. clients), 2021–2022 — Zillow-like real-estate platform, 80%+ test coverage.
+- Fullstack Engineer, Quantum+ Accelerator, 2019–2021 — 5+ startups, MERN.
+
+## Teaching
+
+- Instructor at Shiraz University Innovation Center and Maktab-e-Sharif; mentored 450+ students into tech.
+
+## Links
+
+- GitHub: https://github.com/hosseinnaseriir
+- LinkedIn: https://www.linkedin.com/in/hosseinnaseriir/
+- Email: naseri.develop@gmail.com
+- Blog: https://medium.com/@naseri.develop , https://dev.to/ho3na3
+
+## Open to
+
+- Senior / Lead Frontend & Full-Stack roles, consulting, and 1:1 mentoring.
