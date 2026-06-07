@@ -35,10 +35,10 @@
 
 I'm a **Senior Frontend Engineer** who turns complex product requirements into fast, accessible, and maintainable interfaces. Over the past 7+ years I've led frontend architecture for fintech platforms, U.S. ERP/CRM systems, and real-estate products — focusing on **monorepos, design systems, performance, and developer experience**.
 
-- 🔭 Currently engineering **ERP/CRM platforms** with large-scale, schema-driven UIs
+- 🔭 Engineered **ERP/CRM platforms** with large-scale, schema-driven UIs
 - 🏗️ I love **design systems**, **Turborepo/NX monorepos**, and shipping **reusable component libraries**
 - ♿ Passionate about **performance, accessibility (WCAG)**, and clean architecture
-- 🎓 Mentored **450+ developers** into tech roles through bootcamps and university programs
+- 🎓 Mentored **1000+ developers** into tech roles through bootcamps and university programs
 - 💬 Ask me about **React, Next.js, TypeScript, monorepos, and frontend system design**
 
 ---
@@ -105,8 +105,9 @@ I'm a **Senior Frontend Engineer** who turns complex product requirements into f
 | **Senior Frontend Engineer** | Wallex | Fintech platform (6M+ users), monorepo UI kit, crypto trading MVP | 2022 – 2023 |
 | **Frontend Engineer** | SinanSoft *(U.S. clients)* | React/Next.js architecture, Zillow-like real-estate platform | 2021 – 2022 |
 | **Fullstack Engineer** | Quantum+ Accelerator | 5+ startups, end-to-end MERN delivery | 2019 – 2021 |
+| **Technical Consultant** | [TheList](https://www.thelist-app.com/) *(hospitality startup, Greece)* | CRM dashboard & restaurant-reservation PWA with Next.js & NestJS | Consulting |
 
-> 🎓 **Instructor** @ Shiraz University Innovation Center & Maktab-e-Sharif — helped **450+ students** transition into tech (React, Next.js, TypeScript, Node.js).
+> 🎓 **Instructor** @ Shiraz University Innovation Center & Maktab-e-Sharif — helped **1000+ students** transition into tech (React, Next.js, TypeScript, Node.js).
 
 ---
 
@@ -114,8 +115,9 @@ I'm a **Senior Frontend Engineer** who turns complex product requirements into f
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **ERP/CRM Platform** | Schema-driven enterprise system serving 100k+ customers; cut dev cycles by 40% | `Next.js` `TypeScript` `MUI` `Vite` `PWA` |
+| **[ERP/CRM Platform ↗](https://asc.advancederp.com/)** | Schema-driven enterprise system (American Standard Coatings) serving 100k+ customers; cut dev cycles by 40% | `Next.js` `TypeScript` `MUI` `Vite` `PWA` |
 | **Wallex / Wallpay** | Crypto trading & payment-gateway MVP + back-office for a 6M+ user fintech | `Next.js` `TypeScript` `Tailwind` `Zod` |
+| **[TheList ↗](https://www.thelist-app.com/)** | CRM dashboard & restaurant-reservation PWA for a hospitality startup in Greece | `Next.js` `NestJS` `PWA` |
 | **inja.homes** | Full-stack rental booking platform; led a 7-person cross-functional team | `Next.js` `NestJS` `MySQL` |
 | **Real-Estate Platform** | Zillow-comparable product with 80%+ test coverage on core modules | `Next.js` `Ant Design` `Jest` `Cypress` |
 
@@ -134,6 +136,10 @@ I'm a **Senior Frontend Engineer** who turns complex product requirements into f
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hosseinnaseriir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hosseinnaseriir&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="95%" />
 </p>
 
 ---
@@ -160,7 +166,10 @@ I'm a **Senior Frontend Engineer** who turns complex product requirements into f
 ## ✍️ Latest from My Blog
 
 <!-- BLOG-POST-LIST:START -->
-- I write about frontend architecture, monorepos, and performance on [Medium](https://medium.com/@naseri.develop) and [Dev.to](https://dev.to/ho3na3).
+- [What Are Typed Arrays in JavaScript?](https://medium.com/@naseri.develop/what-are-typed-arrays-in-javascript-36ba2679fa0f) <sub>(Jun 3, 2026 · Medium)</sub>
+- [What Exactly Is Encryption?](https://dev.to/ho3na3/what-exactly-encription-is-273g) <sub>(May 27, 2026 · Dev.to)</sub>
+- [What Are Buffers, Really?](https://medium.com/@naseri.develop/what-are-buffers-really-in-human-language-e21a408ccc8d) <sub>(May 23, 2026 · Medium)</sub>
+- [The Translator Between Humans and Computers: ASCII](https://medium.com/@naseri.develop/what-is-the-translator-between-humans-and-computers-ascii-201eb8b7b4eb) <sub>(May 21, 2026 · Medium)</sub>
 <!-- BLOG-POST-LIST:END -->
 
 > 🔄 This list auto-updates via a GitHub Action (see `.github/workflows/blog-post-workflow.yml`).
@@ -183,3 +192,5 @@ I'm open to **Senior / Lead Frontend & Full-Stack roles**, **consulting**, and *
 </p>
 
 <p align="center"><i>Passionate about clean code, scalable architecture, and helping developers grow.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0e75b6&height=130&section=footer&text=Let's%20build%20something%20great%20together&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer banner" />

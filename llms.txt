@@ -21,10 +21,11 @@
 - Senior Frontend Engineer, Wallex, 2022–2023 — fintech (6M+ users), monorepo UI kit, crypto trading MVP + back-office.
 - Frontend Engineer, SinanSoft (U.S. clients), 2021–2022 — Zillow-like real-estate platform, 80%+ test coverage.
 - Fullstack Engineer, Quantum+ Accelerator, 2019–2021 — 5+ startups, MERN.
+- Technical Consultant, TheList (hospitality startup, Greece) — CRM dashboard + restaurant-reservation PWA (Next.js, NestJS). https://www.thelist-app.com/
 
 ## Teaching
 
-- Instructor at Shiraz University Innovation Center and Maktab-e-Sharif; mentored 450+ students into tech.
+- Instructor at Shiraz University Innovation Center and Maktab-e-Sharif; mentored 1000+ students into tech.
 
 ## Links
 

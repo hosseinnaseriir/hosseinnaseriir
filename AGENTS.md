@@ -46,12 +46,15 @@ e-commerce) — serving 6M+ users and reducing load times by 40%.
   real-estate platform; achieved 80%+ test coverage on core modules.
 - **Quantum+ Accelerator, 2019–2021** — Fullstack Engineer. Launched 5+ startups
   concept-to-production with end-to-end MERN development.
+- **TheList (hospitality startup, Greece)** — Technical Consultant. Built a CRM
+  dashboard and a restaurant-reservation PWA with Next.js and NestJS.
+  https://www.thelist-app.com/
 
 ## Teaching & Mentoring
 
 - Software Development Instructor @ Shiraz University Innovation Center.
 - Frontend Bootcamp Instructor @ Maktab-e-Sharif.
-- Helped **450+ students** transition into tech roles (React, Next.js, TypeScript, Node.js).
+- Helped **1000+ students** transition into tech roles (React, Next.js, TypeScript, Node.js).
 
 ## Education
 
