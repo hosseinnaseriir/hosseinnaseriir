@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=210&section=header&text=Hossein%20Naseri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Frontend-Focused%2C%20Full-Stack%20Capable&descAlignY=56&descSize=18" width="100%" alt="Hossein Naseri banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=210&section=header&text=Hossein%20Naseri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Software%20Architecture&descAlignY=56&descSize=18" width="100%" alt="Hossein Naseri banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer;Frontend-focused%2C+full-stack+capable;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Scaling+products+for+6M%2B+users;Engineering+ideas+into+reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer;TypeScript+%E2%80%A2+Software+Architecture;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Scaling+products+for+6M%2B+users;Engineering+ideas+into+reality" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  Senior Software Engineer with <strong>7+ years</strong> building scalable, enterprise-grade software — <strong>frontend-focused, full-stack capable</strong><br/>
+  Senior Software Engineer with <strong>7+ years</strong> building scalable, enterprise-grade software — <strong>frontend-focused</strong>, end-to-end delivery<br/>
   across <strong>fintech, SaaS, and e-commerce</strong> — serving <strong>6M+ users</strong> and cutting load times by <strong>40%</strong>.
 </p>
 
