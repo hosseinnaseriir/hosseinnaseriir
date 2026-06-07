@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=210&section=header&text=Hossein%20Naseri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript&descAlignY=56&descSize=18" width="100%" alt="Hossein Naseri banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:2ea44f&height=210&section=header&text=Hossein%20Naseri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%E2%80%A2%20Frontend-Focused%2C%20Full-Stack%20Capable&descAlignY=56&descSize=18" width="100%" alt="Hossein Naseri banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=720&lines=Senior+Frontend+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Scaling+web+apps+for+6M%2B+users;Monorepos%2C+design+systems+%26+performance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer;Frontend-focused%2C+full-stack+capable;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Scaling+products+for+6M%2B+users;Engineering+ideas+into+reality" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  Senior Frontend Engineer with <strong>7+ years</strong> building scalable, enterprise-grade web apps<br/>
+  Senior Software Engineer with <strong>7+ years</strong> building scalable, enterprise-grade software — <strong>frontend-focused, full-stack capable</strong><br/>
   across <strong>fintech, SaaS, and e-commerce</strong> — serving <strong>6M+ users</strong> and cutting load times by <strong>40%</strong>.
 </p>
 
@@ -33,13 +33,13 @@
 
 ## 🧭 About Me
 
-I'm a **Senior Frontend Engineer** who turns complex product requirements into fast, accessible, and maintainable interfaces. Over the past 7+ years I've led frontend architecture for fintech platforms, U.S. ERP/CRM systems, and real-estate products — focusing on **monorepos, design systems, performance, and developer experience**.
+I'm a **Senior Software Engineer** who builds complete products end-to-end. My focus and deepest expertise are on the **frontend** — turning complex requirements into fast, accessible, maintainable interfaces — but I'm equally comfortable across the stack with **Node.js, NestJS, databases, and APIs**, having shipped full-stack systems and architected backends for startups and enterprise platforms.
 
-- 🔭 Engineered **ERP/CRM platforms** with large-scale, schema-driven UIs
-- 🏗️ I love **design systems**, **Turborepo/NX monorepos**, and shipping **reusable component libraries**
-- ♿ Passionate about **performance, accessibility (WCAG)**, and clean architecture
+- 🔭 Engineered **ERP/CRM platforms** with large-scale, schema-driven UIs and supporting services
+- 🏗️ I love **design systems**, **Turborepo/NX monorepos**, and shipping **reusable, well-architected software**
+- ♿ Passionate about **performance, accessibility (WCAG)**, clean architecture, and developer experience
 - 🎓 Mentored **1000+ developers** into tech roles through bootcamps and university programs
-- 💬 Ask me about **React, Next.js, TypeScript, monorepos, and frontend system design**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, monorepos, and full-stack system design**
 
 ---
 
@@ -193,4 +193,4 @@ I'm open to **Senior / Lead Frontend & Full-Stack roles**, **consulting**, and *
 
 <p align="center"><i>Passionate about clean code, scalable architecture, and helping developers grow.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0e75b6&height=130&section=footer&text=Let's%20build%20something%20great%20together&fontSize=20&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:0e75b6&height=130&section=footer&text=Engineering%20ideas%20into%20reality&fontSize=22&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer banner" />
