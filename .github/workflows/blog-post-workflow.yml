@@ -23,6 +23,10 @@ jobs:
           # Adds up to 6 most recent posts between the BLOG-POST-LIST markers in README.md
           max_post_count: 6
           feed_list: "https://medium.com/feed/@naseri.develop,https://dev.to/feed/ho3na3"
-          template: "- [$title]($url) <sub>($date)</sub>"
+          feed_names: "Medium,Dev.to"
+          # $newline is required when using a custom template — without it all items run together on one line
+          template: "- [$title]($url) <sub>($date · $feedName)</sub>$newline"
           date_format: "mmm d, yyyy"
+          remove_duplicates: "true"
+          tag_post_pre_newline: "true"
           commit_message: "chore: update README with latest blog posts"
