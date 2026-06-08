@@ -174,7 +174,15 @@ I'm a **Senior Software Engineer** who builds complete products end-to-end. My f
 
 ## ✍️ Latest from My Blog
 
-<!-- BLOG-POST-LIST:START -->- [What are Typed Arrays in JavaScript?](https://medium.com/@naseri.develop/what-are-typed-arrays-in-javascript-36ba2679fa0f?source=rss-43a476c305a3------2) <sub>(Jun 3, 2026)</sub>- [What are Typed Arrays in JavaScript?](https://dev.to/ho3na3/what-are-typed-arrays-in-javascript-342p) <sub>(Jun 3, 2026)</sub>- [What exactly is encryption?](https://medium.com/@naseri.develop/what-exactly-encription-is-encryption-675a8dec5d39?source=rss-43a476c305a3------2) <sub>(May 27, 2026)</sub>- [What Exactly Encription is?](https://dev.to/ho3na3/what-exactly-encription-is-273g) <sub>(May 27, 2026)</sub>- [What Are Buffers, Really? in human language :&rpar;](https://medium.com/@naseri.develop/what-are-buffers-really-in-human-language-e21a408ccc8d?source=rss-43a476c305a3------2) <sub>(May 23, 2026)</sub>- [What Are Buffers, Really?](https://dev.to/ho3na3/what-are-buffers-290m) <sub>(May 23, 2026)</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [What are Typed Arrays in JavaScript?](https://medium.com/@naseri.develop/what-are-typed-arrays-in-javascript-36ba2679fa0f?source=rss-43a476c305a3------2) <sub>(Jun 3, 2026 · Medium)</sub>
+- [What are Typed Arrays in JavaScript?](https://dev.to/ho3na3/what-are-typed-arrays-in-javascript-342p) <sub>(Jun 3, 2026 · Dev.to)</sub>
+- [What exactly is encryption?](https://medium.com/@naseri.develop/what-exactly-encription-is-encryption-675a8dec5d39?source=rss-43a476c305a3------2) <sub>(May 27, 2026 · Medium)</sub>
+- [What Exactly Encription is?](https://dev.to/ho3na3/what-exactly-encription-is-273g) <sub>(May 27, 2026 · Dev.to)</sub>
+- [What Are Buffers, Really? in human language :&rpar;](https://medium.com/@naseri.develop/what-are-buffers-really-in-human-language-e21a408ccc8d?source=rss-43a476c305a3------2) <sub>(May 23, 2026 · Medium)</sub>
+- [What Are Buffers, Really?](https://dev.to/ho3na3/what-are-buffers-290m) <sub>(May 23, 2026 · Dev.to)</sub>
+
+<!-- BLOG-POST-LIST:END -->
 
 > 🔄 This list auto-updates via a GitHub Action (see `.github/workflows/blog-post-workflow.yml`).
 
